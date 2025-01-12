@@ -86,3 +86,6 @@ This project implements a secure communication and file transfer system using Py
 - **Certificate Errors:** Ensure `server.crt` is correctly shared with the client and matches the server's certificate.
 - **Connection Errors:** Verify the server's IP address and port.
 - **HMAC Verification Failed:** Ensure both the client and server use the same `PASSWORD` and `SALT`.
+
+## License
+This project is open-source and available under the MIT License.
